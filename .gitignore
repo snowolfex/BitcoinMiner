@@ -1,0 +1,9 @@
+# Generated binaries and compiler outputs
+*.exe
+*.exe.manifest
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+*.lib
